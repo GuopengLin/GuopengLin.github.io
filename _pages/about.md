@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Ph.D. student in the [Data Security and Governance (DSG) Lab](https://dsg.fudan.edu.cn/#/) of Fudan University, under the supervision of [Prof. Weili Han](https://dsg.fudan.edu.cn/#/hwl). I received my B.S. in Software Engineering from Fudan University in 2021.
 
-My research interests include Secure Multi-party Computation, especially its application in privacy-preserving machine learning and vulnerability detection.
+My research interests primarily focus on secure multi-party computation, including vulnerability detection for it and its application in privacy-preserving machine learning.
 
 
 Selected Papers
