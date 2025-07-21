@@ -28,9 +28,10 @@ Selected Papers
 
 Awards
 ======
-- 🏆 **ACM CCS 2024 Distinguish Artifact Award (first author)**
-- 🏆 **Gold Medal of the College Invention Selection Competition (Team Leader)** 
-- 🏆 **Outstanding Graduate of Shanghai**
-- 🏆 **First Prize of the National College Student Information Security Competition(Team Leader)**
+- 🏆 **ACM CCS 2024 Distinguished Artifact Award (First Author)**
+- 🥇 **Gold Medal, College Student Invention Competition 2024 (Team Leader)**
+- 🌟 **Outstanding Graduate of Shanghai (2021)**
+- 🏅 **First Prize, National Cybersecurity Competition 2019 (Team Leader)**
+- 🎓 **Fudan University First-class Scholarships, Excellent Student, etc**
 ------
 
