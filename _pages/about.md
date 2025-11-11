@@ -21,13 +21,14 @@ Selected Papers
 [[pdf](https://github.com/GuopengLin/GuopengLin.github.io/blob/master/files/Kona_%20An%20Efficient%20Privacy-Preservation%20Framework%20for%20KNN%20Classification%20by%20Communication%20Optimization.pdf), [code](https://github.com/FudanMPL/Garnet/tree/kona)]
 
 - **[CCS 2024]** **Guopeng Lin**, Weili Han, Wenqiang Ruan, Ruisheng Zhou, Lushan Song, Bingshuai Li, Yunfeng Shao. Ents: An Efficient Three-party Training Framework for Decision Trees by Communication Optimization. In Proceedings of the 31th ACM Conference on Computer and Communications Security (CCS 2024), Salt Lake City, UT, USA, October 14-18, 2024: 4376–4390. <br>
-🏆 <span style="color:red;"><strong>Distinguished Paper Award</strong></span> <br>
+🏆 <span style="color:red;"><strong>Distinguished Artifact Award</strong></span> <br>
 [[pdf](https://github.com/GuopengLin/GuopengLin.github.io/blob/master/files/Kona_%20An%20Efficient%20Privacy-Preservation%20Framework%20for%20KNN%20Classification%20by%20Communication%20Optimization.pdf), [code](https://github.com/FudanMPL/Garnet/tree/kona)]
 
 
 
 Awards
 ======
+- 🎓 **National Scholarships 2025**
 - 🏆 **ACM CCS 2024 Distinguished Artifact Award (First Author)**
 - 🥇 **Gold Medal, College Student Invention Competition 2024 (Team Leader)**
 - 🌟 **Outstanding Graduate of Shanghai (2021)**

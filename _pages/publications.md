@@ -15,7 +15,7 @@ author_profile: true
 <br>[[pdf](https://github.com/GuopengLin/GuopengLin.github.io/blob/master/files/HawkEye_%20Statically%20and%20Accurately%20Profiling%20the%20Communication%20Cost%20of%20Models%20in%20Multi-party%20Learning.pdf)]
 
 - **[CCS 2024]** **Guopeng Lin**, Weili Han, Wenqiang Ruan, Ruisheng Zhou, Lushan Song, Bingshuai Li, Yunfeng Shao. Ents: An Efficient Three-party Training Framework for Decision Trees by Communication Optimization. In Proceedings of the 31th ACM Conference on Computer and Communications Security (CCS 2024), Salt Lake City, UT, USA, October 14-18, 2024: 4376–4390. <br>
-🏆 <span style="color:red;"><strong>Distinguished Paper Award</strong></span> <br>
+🏆 <span style="color:red;"><strong>Distinguished Artifact Award</strong></span> <br>
 [[pdf](https://github.com/GuopengLin/GuopengLin.github.io/blob/master/files/Kona_%20An%20Efficient%20Privacy-Preservation%20Framework%20for%20KNN%20Classification%20by%20Communication%20Optimization.pdf), [code](https://github.com/FudanMPL/Garnet/tree/kona)]
 
 - **[TIFS 2024]** Lushan Song, Zhexuan Wang, **Guopeng Lin**, Weili Han. Ruyi: A Configurable and Efficient Secure Multi-Party Learning Framework with Privileged Parties. IEEE Transactions on Information Forensics and Security (TIFS), 2024, 19: 10355-10370. <br>
