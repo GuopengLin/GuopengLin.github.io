@@ -2,41 +2,166 @@
 ---
 
 /*
- * This file controls what is imported from /_sass
+ *    Minimal Mistakes Jekyll Theme
  *
- * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
- */
+ *  - Michael Rose
+ *  - mademistakes.com
+ *  - https://twitter.com/mmistakes
+ *
+*/
 
-@import
-    "vendor/breakpoint/breakpoint",
+@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "variables";
+@import "mixins";
+@import "vendor/susy/susy";
 
-    "themes",
-    "theme/default",
-    "theme/dark",
+@import "reset";
+@import "base";
 
-    "include/mixins",
-    "vendor/susy/susy",
+@import "utilities";
+@import "animations";
+@import "tables";
+@import "buttons";
+@import "notices";
+@import "masthead";
+@import "navigation";
+@import "footer";
+@import "syntax";
 
-    "layout/reset",
-    "layout/base",
+@import "forms";
 
-    "include/utilities",
-    "layout/tables",
-    "layout/buttons",
-    "layout/notices",
-    "layout/masthead",
-    "layout/navigation",
-    "layout/footer",
-    "syntax",
+@import "page";
+@import "archive";
+@import "sidebar";
 
-    "layout/forms",
+@import "vendor/font-awesome/fontawesome";
+@import "vendor/font-awesome/solid";
+@import "vendor/font-awesome/brands";
+@import "vendor/magnific-popup/magnific-popup";
+@import "print";
 
-    "layout/page",
-    "layout/archive",
-    "layout/sidebar",
+html {
+    font-size: 13px;
+}
+@include breakpoint($medium) { html { font-size: 14px; } }
+@include breakpoint($large)  { html { font-size: 15px; } }
 
-    "vendor/font-awesome/fontawesome",
-    "vendor/font-awesome/solid",
-    "vendor/font-awesome/brands"
-;
+.paper-box {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-bottom: 1px #efefef solid;
+    padding: 2em 0 2em 0;
+    
+
+    .paper-box-image{
+        justify-content: center;
+        display: flex;
+        width: 100%;
+        order: 2;
+        img {
+            max-width: 400px;
+            box-shadow: 3px 3px 6px #888;
+            object-fit: cover;
+        }
+    }
+    
+    .paper-box-text{
+        max-width: 100%;
+        order: 1;
+    }
+    
+    @include breakpoint($medium) {
+        .paper-box-image{
+            justify-content: left;
+            min-width: 200px;
+            max-width: 40%;
+            order: 1;
+        }
+        
+        .paper-box-text{
+            justify-content: left;
+            padding-left: 2em;
+            max-width: 60%;
+            order: 2;
+        }
+
+    }
+
+
+}
+
+$scroll_offset : 2em;
+h1:before, .anchor:before { 
+    content: ''; 
+    display: block; 
+    position: relative; 
+    width: 0; 
+    height: $scroll_offset; 
+    margin-top: -$scroll_offset;
+}
+
+.badge {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    position: absolute;
+    margin-top: .5em;
+    margin-left: -.5em;
+    color: white;
+    background-color: #00369f;
+    font-size: .8em;
+}
+
+/* Publication list with venue badge on the left */
+.pub-list {
+    list-style: none;
+    padding-left: 0;
+
+    > li {
+        display: flex;
+        align-items: flex-start;
+        gap: 1em;
+        padding: 0.9em 0;
+        border-bottom: 1px solid #efefef;
+        line-height: 1.55;
+
+        &:last-child { border-bottom: none; }
+    }
+
+    .pub-badge {
+        flex: 0 0 110px;
+        display: inline-block;
+        text-align: center;
+        font-weight: 600;
+        font-size: 0.72em;
+        line-height: 1.4;
+        padding: 0.15em 0.5em;
+        border-radius: 3px;
+        white-space: nowrap;
+        margin-top: 0.25em;
+        color: #555;
+        background-color: #eee;
+        border: 1px solid #e0e0e0;
+    }
+    /* Per-venue pastel palette */
+    .pub-badge.sp      { background: #e6effc; border-color: #cfdcf3; color: #2c4f8b; }
+    .pub-badge.ccs     { background: #fde8e8; border-color: #f4d0d0; color: #9c3838; }
+    .pub-badge.icml    { background: #e7f5ec; border-color: #cfe6d6; color: #2f6b3e; }
+    .pub-badge.usenix  { background: #efeaf8; border-color: #ddd2ef; color: #4f3a8c; }
+    .pub-badge.vldb    { background: #fdeede; border-color: #f4dbb7; color: #a45a1c; }
+    .pub-badge.tifs    { background: #e1f3f1; border-color: #c5e3df; color: #1f5d57; }
+    .pub-badge.journal { background: #f1ece2; border-color: #e2d9c4; color: #6b5a2a; }
+
+    .pub-content {
+        flex: 1 1 auto;
+        min-width: 0;
+
+        .pub-title { font-weight: 700; }
+        .pub-meta  { font-style: italic; color: #555; }
+        .pub-award { color: #c00; font-weight: 600; }
+        strong     { text-decoration: underline; }
+        a { word-break: break-word; }
+    }
+}
