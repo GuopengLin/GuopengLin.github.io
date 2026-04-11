@@ -14,6 +14,10 @@ My research interests primarily focus on secure multi-party computation, includi
 
 Selected Papers
 ======
+
+- **[CCS 2026]**  **Guopeng Lin**, Guopeng Lin, Zhengting Jin, Shuyu Chen, Jingwei Pu, Zheng Qu, Jiaheng Zhang, Weili Han. MPCArbiter: Detect Numeric Error Vulnerabilities in MPC Implementations via Distribution-Aware Differential Oracle.. In Proceedings of the 33th ACM Conference on Computer and Communications Security (CCS 2026), The Hague, The Netherlands, November 15-19, 2026. <br>
+
+
 - **[IEEE S&P 2025]**  **Guopeng Lin**, Xiaoning Du, Lushan Song, Weili Han, Jin Tan, Junming Ma, Wenjing Fang, Lei Wang. Is MPC Secure? Leveraging Neural Network Classifiers to Detect Data Leakage Vulnerabilities in MPC Implementations. In Proceedings of the 46th IEEE Symposium on Security and Privacy (IEEE S&P 2025), San Francisco, CA, USA, May 12-14, 2025: 2809-2826. <br>
 [[pdf](https://github.com/GuopengLin/GuopengLin.github.io/blob/master/files/Is%20MPC%20Secure_%20Leveraging%20Neural%20Network%20Classifiers%20to%20Detect%20Data%20Leakage%20Vulnerabilities%20in%20MPC%20Implementations.pdf), [code](https://github.com/FudanMPL/MPCGuard)]
 
@@ -29,6 +33,7 @@ Selected Papers
 Awards
 ======
 - 🎓 **National Scholarships 2025**
+- 🎓 **2025, ByteDance Jindouyun Program Offer**
 - 🏆 **ACM CCS 2024 Distinguished Artifact Award (First Author)**
 - 🥇 **Gold Medal, College Student Invention Competition 2024 (Team Leader)**
 - 🌟 **Outstanding Graduate of Shanghai (2021)**
