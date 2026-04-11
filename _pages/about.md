@@ -12,16 +12,16 @@ I am a Ph.D. student in the [Data Security and Governance (DSG) Lab](https://dsg
 My research interests primarily focus on secure multi-party computation, including vulnerability detection for it and its application in privacy-preserving machine learning.
 
 
-Educations
+📖 Educations
 ======
-- 📖 **2021.09 - now**, Ph.D, Fudan University, School of Computer Science.
-- 📖 **2017.09 - 2021.06**, B.Eng, Northwestern Polytechnical University, School of Computer Science.
+- **2021.09 - now**, Ph.D, Fudan University, School of Computer Science.
+- **2017.09 - 2021.06**, B.Eng, Fudan University, School of Software.
 
 
-Publications
+📝 Publications
 ======
 
-- **[CCS 2026]**  **Guopeng Lin**, Guopeng Lin, Zhengting Jin, Shuyu Chen, Jingwei Pu, Zheng Qu, Jiaheng Zhang, Weili Han. MPCArbiter: Detect Numeric Error Vulnerabilities in MPC Implementations via Distribution-Aware Differential Oracle.. In Proceedings of the 33th ACM Conference on Computer and Communications Security (CCS 2026), The Hague, The Netherlands, November 15-19, 2026. <br>
+- **[CCS 2026]**  **Guopeng Lin**, Zhengting Jin, Shuyu Chen, Jingwei Pu, Zheng Qu, Jiaheng Zhang, Weili Han. MPCArbiter: Detect Numeric Error Vulnerabilities in MPC Implementations via Distribution-Aware Differential Oracle.. In Proceedings of the 33th ACM Conference on Computer and Communications Security (CCS 2026), The Hague, The Netherlands, November 15-19, 2026. <br>
 
 
 - **[VLDB 2026]**  Shuyu Chen, Mingxun Zhou, Haoyu Niu, **Guopeng Lin**, Weili Han. Bifrost: A Much Simpler Secure Two-Party Data Join Protocol for Secure Data Analytics. In Proceedings of The 52nd International Conference on Very Large Data Bases (VLDB 2026), Boston, MA, USA, Aug 31st-Sep 4th, 2026. <br>
@@ -51,7 +51,7 @@ Publications
 
 
 
-Awards
+🎖 Honors and Awards
 ======
 - 🎓 **National Scholarships 2025**
 - 🎓 **2025, ByteDance Jindouyun Program Offer**
