@@ -8,6 +8,8 @@
 # Site Settings
 title                    : "Guopeng Lin"
 description              : "Personal homepage of Guopeng Lin, a Ph.D. student at Fudan University working on secure multi-party computation."
+url                      : "https://guopenglin.github.io"
+baseurl                  : ""
 repository               : "GuopengLin/GuopengLin.github.io"
 google_scholar_stats_use_cdn : true
 
