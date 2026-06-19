@@ -122,8 +122,11 @@ Lushan Song, Jiaxuan Wang, Zhexuan Wang, Xinyu Tu, <strong>Guopeng Lin</strong>,
 
 
 # 🎖 Honors and Awards
+- *2026* &nbsp;🌟 **Shanghai AI Laboratory XingQi Program Offer**
+- *2026* &nbsp;🌟 **Ant Star · Plan A Program Offer**
 - *2025* &nbsp;🎓 **National Scholarship**
 - *2025* &nbsp;🎓 **ByteDance Jindouyun Program Offer**
+- *2025* &nbsp;🌟 **Huawei TopMinds Program Offer**
 - *2024* &nbsp;🏆 **ACM CCS Distinguished Artifact Award** (First Author)
 - *2024* &nbsp;🥇 **Gold Medal, College Student Invention Competition** (Team Leader)
 - *2021* &nbsp;🌟 **Outstanding Graduate of Shanghai**
