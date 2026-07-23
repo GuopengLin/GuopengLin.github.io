@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in the [Data Security and Governance (DSG) Lab](https://dsg.fudan.edu.cn/#/) of Fudan University, under the supervision of [Prof. Weili Han](https://dsg.fudan.edu.cn/#/hwl). I received my B.Eng. in Software Engineering from Fudan University in 2021. I will soon join the Shanghai Artificial Intelligence Laboratory (Shanghai AI Lab) as a Young Research Fellow.
+I received my Ph.D. from the School of Computer Science, Fudan University in 2026, where I was a member of the [Data Security and Governance (DSG) Lab](https://dsg.fudan.edu.cn/#/) under the supervision of [Prof. Weili Han](https://dsg.fudan.edu.cn/#/hwl). Before that, I received my B.Eng. in Software Engineering from Fudan University in 2021. I will soon join the Shanghai Artificial Intelligence Laboratory (Shanghai AI Lab) as a Young Research Fellow.
 
 My research interests primarily focus on **secure multi-party computation (MPC)**, including vulnerability detection for it and its application in privacy-preserving machine learning. I have published papers at top venues such as IEEE S&#38;P, ACM CCS, USENIX Security, ICML and VLDB.
 
@@ -143,5 +143,5 @@ Lushan Song, Jiaxuan Wang, Zhexuan Wang, Xinyu Tu, <strong>Guopeng Lin</strong>,
 - *2019* &nbsp;🏅 **First Prize, National Cybersecurity Competition** (Team Leader)
 
 # 📖 Educations
-- *2021.09 - now*, Ph.D., School of Computer Science, Fudan University.
+- *2021.09 - 2026.06*, Ph.D., School of Computer Science, Fudan University.
 - *2017.09 - 2021.06*, B.Eng. in Software Engineering, Fudan University.
