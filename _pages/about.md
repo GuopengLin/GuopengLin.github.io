@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in the [Data Security and Governance (DSG) Lab](https://dsg.fudan.edu.cn/#/) of Fudan University, under the supervision of [Prof. Weili Han](https://dsg.fudan.edu.cn/#/hwl). I received my B.Eng. in Software Engineering from Fudan University in 2021.
+I am a Ph.D. student in the [Data Security and Governance (DSG) Lab](https://dsg.fudan.edu.cn/#/) of Fudan University, under the supervision of [Prof. Weili Han](https://dsg.fudan.edu.cn/#/hwl). I received my B.Eng. in Software Engineering from Fudan University in 2021. I will soon join the Shanghai Artificial Intelligence Laboratory (Shanghai AI Lab) as a Young Research Fellow.
 
 My research interests primarily focus on **secure multi-party computation (MPC)**, including vulnerability detection for it and its application in privacy-preserving machine learning. I have published papers at top venues such as IEEE S&#38;P, ACM CCS, USENIX Security, ICML and VLDB.
 
@@ -28,6 +28,16 @@ My research interests primarily focus on **secure multi-party computation (MPC)*
 # 📝 Publications
 
 <ul class="pub-list">
+
+<li>
+<div class="pub-badge waica">WAICA '26</div>
+<div class="pub-content">
+<span class="pub-title">BlitzBough: An Efficient Privacy-Preserving Inference Framework for Decision Trees by Communication Optimization</span><br>
+<strong>Guopeng Lin</strong>, Yixin Tu, Jingwei Pu, Zheng Qu, Shuyu Chen, Weili Han.<br>
+<span class="pub-meta">In Proceedings of the Inaugural WAIC Academic Conference (WAICA), Shanghai, China, July 18-20, 2026.</span>
+[<a href="/files/BlitzBough_%20An%20Efficient%20Privacy-Preserving%20Inference%20Framework%20for%20Decision%20Trees%20by%20Communication%20Optimization.pdf" download>PDF</a>]
+</div>
+</li>
 
 <li>
 <div class="pub-badge ccs">CCS '26</div>
@@ -125,7 +135,7 @@ Lushan Song, Jiaxuan Wang, Zhexuan Wang, Xinyu Tu, <strong>Guopeng Lin</strong>,
 - *2026* &nbsp;🌟 **Shanghai AI Laboratory XingQi Young Research Fellow Program Offer**
 - *2026* &nbsp;🌟 **Ant Star · Plan A Program Offer**
 - *2025* &nbsp;🎓 **National Scholarship**
-- *2025* &nbsp;🎓 **ByteDance Jindouyun Program Offer**
+- *2025* &nbsp;🌟 **ByteDance Jindouyun Program Offer**
 - *2025* &nbsp;🌟 **Huawei TopMinds Program Offer**
 - *2024* &nbsp;🏆 **ACM CCS Distinguished Artifact Award** (First Author)
 - *2024* &nbsp;🥇 **Gold Medal, College Student Invention Competition** (Team Leader)
