@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my Ph.D. from the School of Computer Science, Fudan University in 2026, where I was a member of the [Data Security and Governance (DSG) Lab](https://dsg.fudan.edu.cn/#/) under the supervision of [Prof. Weili Han](https://dsg.fudan.edu.cn/#/hwl). Before that, I received my B.Eng. in Software Engineering from Fudan University in 2021. I am currently a XingQi Young Research Fellow at the Shanghai Artificial Intelligence Laboratory (Shanghai AI Lab).
+I am currently a XingQi Young Research Fellow at the Shanghai Artificial Intelligence Laboratory (Shanghai AI Lab). I received my Ph.D. from the School of Computer Science, Fudan University in 2026, where I was a member of the [Data Security and Governance (DSG) Lab](https://dsg.fudan.edu.cn/#/) under the supervision of [Prof. Weili Han](https://dsg.fudan.edu.cn/#/hwl). Before that, I received my B.Eng. in Software Engineering from Fudan University in 2021.
 
 My research interests primarily focus on **secure multi-party computation (MPC)**, including vulnerability detection for it and its application in privacy-preserving machine learning. I have published papers at top venues such as IEEE S&#38;P, ACM CCS, USENIX Security, ICML and VLDB.
 
