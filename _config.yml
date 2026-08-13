@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Guopeng Lin"
-description              : "Personal homepage of Guopeng Lin, incoming Young Research Fellow at Shanghai AI Lab (Ph.D., Fudan University), working on secure multi-party computation."
+description              : "Personal homepage of Guopeng Lin, XingQi Young Research Fellow at Shanghai AI Lab (Ph.D., Fudan University), working on secure multi-party computation."
 url                      : "https://guopenglin.github.io"
 baseurl                  : ""
 repository               : "GuopengLin/GuopengLin.github.io"
@@ -25,9 +25,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Guopeng Lin"
   avatar           : "images/linguopeng.jpg"
-  bio              : "Incoming Young Research Fellow at Shanghai AI Lab · Ph.D., Fudan University"
+  bio              : "XingQi Young Research Fellow at Shanghai AI Lab · Ph.D., Fudan University"
   location         : "Shanghai, China"
-  employer         : "Fudan University"
+  employer         : "Shanghai AI Lab"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=HzjuQ6EAAAAJ"
   email            : "17302010022@fudan.edu.cn"
