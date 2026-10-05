@@ -34,7 +34,7 @@ My research interests primarily focus on **secure multi-party computation (MPC)*
 <div class="pub-content">
 <span class="pub-title">BlitzBough: An Efficient Privacy-Preserving Inference Framework for Decision Trees by Communication Optimization</span><br>
 <strong>Guopeng Lin</strong>, Yixin Tu, Jingwei Pu, Zheng Qu, Shuyu Chen, Weili Han.<br>
-<span class="pub-meta">In Proceedings of the Inaugural WAIC Academic Conference (WAICA), Shanghai, China, July 18-20, 2026.</span>
+<span class="pub-meta">In Proceedings of the WAIC Academic Conference (WAICA), Shanghai, China, July 18-20, 2026.</span>
 [<a href="/files/BlitzBough_%20An%20Efficient%20Privacy-Preserving%20Inference%20Framework%20for%20Decision%20Trees%20by%20Communication%20Optimization.pdf" download>PDF</a>]
 </div>
 </li>
@@ -45,6 +45,7 @@ My research interests primarily focus on **secure multi-party computation (MPC)*
 <span class="pub-title">MPCArbiter: Detect Numeric Error Vulnerabilities in MPC Implementations via Distribution-Aware Differential Oracle</span><br>
 <strong>Guopeng Lin</strong>, Zhengting Jin, Shuyu Chen, Jingwei Pu, Zheng Qu, Jiaheng Zhang, Weili Han.<br>
 <span class="pub-meta">In Proceedings of the 33rd ACM Conference on Computer and Communications Security (CCS), 2026.</span>
+[<a href="/files/MPCArbiter_%20Detect%20Numeric%20Error%20Vulnerabilities%20in%20MPC%20Implementations%20via%20Distribution-Aware%20Differential%20Oracle.pdf" download>PDF</a>]
 </div>
 </li>
 
@@ -54,6 +55,7 @@ My research interests primarily focus on **secure multi-party computation (MPC)*
 <span class="pub-title">Bifrost: A Much Simpler Secure Two-Party Data Join Protocol for Secure Data Analytics</span><br>
 Shuyu Chen, Mingxun Zhou, Haoyu Niu, <strong>Guopeng Lin</strong>, Weili Han.<br>
 <span class="pub-meta">In Proceedings of the 52nd International Conference on Very Large Data Bases (VLDB), 2026.</span>
+[<a href="/files/Bifrost_%20A%20Much%20Simpler%20Secure%20Two-Party%20Data%20Join%20Protocol%20for%20Secure%20Data%20Analytics.pdf" download>PDF</a>]
 </div>
 </li>
 
