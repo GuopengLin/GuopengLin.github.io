@@ -30,6 +30,16 @@ My research interests primarily focus on **secure multi-party computation (MPC)*
 <ul class="pub-list">
 
 <li>
+<div class="pub-badge journal">COSE '27</div>
+<div class="pub-content">
+<span class="pub-title">FilterMatch: An Efficient Privacy-Preserving Inventory Matching Framework</span><br>
+Zheng Qu, <strong>Guopeng Lin</strong>, Peiran Wang, Ruotao Deng, Wen Zeng, Weili Han.<br>
+<span class="pub-meta">Computers &#38; Security (COSE), 2027: 105193.</span>
+[<a href="/files/FilterMatch_%20An%20Efficient%20Privacy-Preserving%20Inventory%20Matching%20Framework.pdf" download>PDF</a>]
+</div>
+</li>
+
+<li>
 <div class="pub-badge waica">WAICA '26</div>
 <div class="pub-content">
 <span class="pub-title">BlitzBough: An Efficient Privacy-Preserving Inference Framework for Decision Trees by Communication Optimization</span><br>
